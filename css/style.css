@@ -1,0 +1,36 @@
+body { background: #7D9EC0; }
+
+.main-text { text-align: center; }
+
+.p-text { text-align: center; font-size: 25px;}
+
+.boxed {
+    width: 400px;
+    height: 150px;
+    padding: 20px;
+    border: 2px solid white;
+    background-color: white;
+    color: #7D9EC0;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.demo {
+  font-size: 22px;
+}
+
+.getQuote {
+    background: #0099cc;
+    color: #ffffff;
+    font-size: 22px;
+}
+
+.tweetQuote {
+    background: #0099cc;
+    color: #ffffff;
+    font-size: 22px;
+}
